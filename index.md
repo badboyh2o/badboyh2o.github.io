@@ -4,4 +4,4 @@
 
 ### 还没想好写点啥呢
 
-![]./img/dog.jpeg
+![](./img/dog.jpeg)
