@@ -1,7 +1,7 @@
 ## badboyh2o's GitHub Pages
 
 <audio preload="metadata" controls="controls">
-      <source src="./audio/dlj-wzzhn.mp3">
+      <source src="./audio/za-dxxd.mp3">
 </audio>
 
 
@@ -27,5 +27,4 @@
 
 还没想好写点啥呢
 
-
-![](./img/dog.jpeg)
+<img src="./img/dog.jpeg" style="zoom: 34%;" />
