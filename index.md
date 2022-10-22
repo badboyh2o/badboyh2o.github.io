@@ -6,8 +6,7 @@
 醒醒！！要学习了
 
 偷来的金毛dog
-![](./video/jinmao1.mp4)
-
+<vedio src="./video/jinmao1.mp4"></vedio>
 
 
 ### 2022/07/30
