@@ -19,7 +19,7 @@
 
 > 偷来的金毛dog
 
-<video height="480" preload="none" controls>
+<video height="480" preload="auto" controls>
   <source src="./video/jinmao1.mp4" type="video/mp4">
 </video>
 
