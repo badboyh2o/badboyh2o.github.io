@@ -3,6 +3,11 @@
 <audio preload="none" controls="controls">
       <source src="./audio/za-dxxd.mp3">
 </audio>
+> press start button and wait music loading ~
+>
+
+
+
 
 
 
