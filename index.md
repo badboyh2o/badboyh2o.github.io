@@ -1,6 +1,6 @@
 ## badboyh2o's GitHub Pages
 
-<audio preload="metadata" controls="controls">
+<audio preload="none" controls="controls">
       <source src="./audio/za-dxxd.mp3">
 </audio>
 
@@ -14,7 +14,7 @@
 
 > 偷来的金毛dog
 
-<video height="480" preload="metadata" controls>
+<video height="480" preload="none" controls>
   <source src="./video/jinmao1.mp4" type="video/mp4">
 </video>
 
